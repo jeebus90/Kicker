@@ -1,0 +1,11 @@
+F:\Programming\Unity Projects\Kicker\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Programming\Unity Projects\Kicker\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Programming\Unity Projects\Kicker\Temp\bin\Debug\UnityEditor.dll
+F:\Programming\Unity Projects\Kicker\Temp\bin\Debug\UnityEngine.dll
+F:\Programming\Unity Projects\Kicker\Temp\bin\Debug\Mono.Cecil.dll
+F:\Programming\Unity Projects\Kicker\Temp\bin\Debug\nunit.framework.dll
+F:\Programming\Unity Projects\Kicker\Temp\bin\Debug\Unity.DataContract.dll
+F:\Programming\Unity Projects\Kicker\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Programming\Unity Projects\Kicker\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+F:\Programming\Unity Projects\Kicker\obj\Debug\Assembly-CSharp.dll
+F:\Programming\Unity Projects\Kicker\obj\Debug\Assembly-CSharp.pdb
