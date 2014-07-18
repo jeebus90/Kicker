@@ -24,7 +24,7 @@ public class Player_Controller : MonoBehaviour
                 Rigidbody rb = GetComponent<Rigidbody>();
 
 
-                if (Input.GetButton("Right"))
+                if (Input.GetButtonDown("Right"))
                 {
 
                     movement = new Vector3(speed * Time.deltaTime, 0.0f, 0.0f);
@@ -34,7 +34,7 @@ public class Player_Controller : MonoBehaviour
                     }
                     rigidbody.AddForce(movement);
                 }
-                if (Input.GetButton("Left"))
+                if (Input.GetButtonDown("Left"))
                 {
 
                     movement = new Vector3(-speed * Time.deltaTime, 0.0f, 0.0f);
@@ -44,7 +44,7 @@ public class Player_Controller : MonoBehaviour
                     }
                     rigidbody.AddForce(movement);
                 }
-                if (Input.GetButton("Up"))
+                if (Input.GetButtonDown("Up"))
                 {
 
                     movement = new Vector3(0.0f, 0.0f, speed * Time.deltaTime);
@@ -54,7 +54,7 @@ public class Player_Controller : MonoBehaviour
                     }
                     rigidbody.AddForce(movement);
                 }
-                if (Input.GetButton("Down"))
+                if (Input.GetButtonDown("Down"))
                 {
 
                     movement = new Vector3(0.0f, 0.0f, -speed * Time.deltaTime);
@@ -72,7 +72,7 @@ public class Player_Controller : MonoBehaviour
     void smoothResetSpeeds(Rigidbody rb)
     {
         Vector3 currentSpeeds = rb.velocity;
-        currentSpeeds.z = Mathf.Lerp(currentSpeeds.z, 0.0f, 0.1f);
+        currentSpeeds.z = Mathf.Lerp(currentSpeeds.z, 0.0f, 0.5f);
         rb.velocity = currentSpeeds;
     }
 
