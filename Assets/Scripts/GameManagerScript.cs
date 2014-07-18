@@ -17,4 +17,5 @@ public class GameManagerScript : MonoBehaviour {
     {
         Debug.Log("Killed by " + ".\nYou died in a terrible horrible death maddafakka!!!");
     }
+   
 }
