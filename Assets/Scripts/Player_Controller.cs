@@ -5,9 +5,11 @@ public class Player_Controller : MonoBehaviour
 {
 
     public float speed;
+    public int steps;
     private Vector3 movement;
     private float distToGround;
-    // Update is called once per frame
+    public Texture boltTexture;
+
     void Start()
     {
         distToGround = collider.bounds.extents.y;
@@ -69,6 +71,13 @@ public class Player_Controller : MonoBehaviour
         }
     }
 
+    void OnTriggerEnter(Collider other) {
+        if (other.gameObject.tag == "Goal") {
+            other.GetComponent<Goal_script>().enterNextLevel();
+        }
+    
+    }
+
     void smoothResetSpeeds(Rigidbody rb)
     {
         Vector3 currentSpeeds = rb.velocity;
@@ -80,5 +89,13 @@ public class Player_Controller : MonoBehaviour
     {
         //TODO works bad if uneven ground!
         return Physics.Raycast(transform.position, -Vector3.up, distToGround + 0.1f);
+    }
+
+    void OnGUI()
+    {
+        for (int i = 0; i < steps; i++)
+        {
+            GUI.DrawTexture(new Rect(Screen.width - 30 * i, Screen.height - 80, 20, 40), boltTexture, ScaleMode.StretchToFill, true, 10.0F);
+        }
     }
 }

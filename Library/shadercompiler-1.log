@@ -1,0 +1,129 @@
+Base path: B:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-2156
+Cmd: getPlatforms
+Cmd: preprocess
+  error: 1 plat 12 at (26): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (26): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (54): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (54): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (81): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (81): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (108): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (108): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (135): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (135): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (162): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (162): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (189): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (189): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (216): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (216): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (243): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (243): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (270): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (270): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (297): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (297): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (324): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (324): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (351): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (351): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (378): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (378): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (405): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (405): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (432): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (432): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (459): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (459): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (486): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (486): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (513): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (513): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (540): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (540): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  insize=7613 outsize=4220 ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (26): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (26): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (54): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (54): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (81): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (81): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (108): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (108): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (135): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (135): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (162): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (162): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (189): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (189): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (216): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (216): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (243): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (243): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (270): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (270): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (297): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (297): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (324): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (324): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (351): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (351): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (378): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (378): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (405): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (405): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (432): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (432): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (459): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (459): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (486): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (486): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (513): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (513): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (540): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (540): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  insize=7613 outsize=4220 ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (26): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (26): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (54): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (54): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (81): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (81): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (108): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (108): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (135): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (135): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (162): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (162): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (189): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (189): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (216): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (216): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (243): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (243): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (270): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (270): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (297): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (297): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (324): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (324): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (351): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (351): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (378): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (378): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (405): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (405): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (432): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (432): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (459): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (459): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (486): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (486): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (513): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (513): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  error: 1 plat 12 at (540): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  error: 1 plat 12 at (540): Warning: it's recommended to change '// vertex VertexProgram' to '#pragma vertex VertexProgram'
+  insize=7613 outsize=4220 ok=1
